@@ -1,5 +1,5 @@
 ## Hi, I'm Daniyal 👋
-
+**I'm a JavaScript developer. Backend(nodejs) and Frontend(React)**
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
